@@ -593,8 +593,8 @@ header {
         padding: 10px;
         border-top: 1px solid hsl(200 100% 99% / 5%);
         background: linear-gradient(8deg, 
-        hsl(240 17% 14% / 100%) 5%,
-        hsl(240 17% 14% / 90%) 100%);
+        hsl(194, 31%, 16%) 5%,
+        hsla(191, 29%, 15%, 0.9) 100%);
     }
     .nav-link .bx {
         font-size: 1.5rem;
